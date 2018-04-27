@@ -17,10 +17,8 @@
     "url": "https://github.com/raykao/messaging_server/issues"
   },
   "homepage": "https://github.com/raykao/messaging_server#readme",
-  "devDependencies": {
-    "socket.io": "^2.1.0"
-  },
   "dependencies": {
-    "jsonwebtoken": "^8.2.1"
+    "jsonwebtoken": "^8.2.1",
+    "socket.io": "^2.1.0"
   }
 }
