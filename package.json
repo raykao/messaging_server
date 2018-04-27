@@ -1,0 +1,26 @@
+{
+  "name": "messaging_server",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raykao/messaging_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raykao/messaging_server/issues"
+  },
+  "homepage": "https://github.com/raykao/messaging_server#readme",
+  "devDependencies": {
+    "socket.io": "^2.1.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.2.1"
+  }
+}
